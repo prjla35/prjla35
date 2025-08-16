@@ -7,7 +7,7 @@ Welcome to the crossroads of code and curiosity! I’m a tinkerer from the Himal
 ## 🌐 About Me
 
 - 🐍 Python enthusiast specializing in clean, readable, and scalable code  
-- ☁️ Building and automating on Microsoft Azure  
+- ☁️ Building and automating using python.
 - 💻 Navigating the Linux command line like a seasoned explorer  
 - 🤖 Crafting experiences with large language model APIs  
 - 🚀 Constantly on a journey of discovery—mapping new frameworks, tools, and paradigms  
@@ -23,19 +23,7 @@ Welcome to the crossroads of code and curiosity! I’m a tinkerer from the Himal
 
 ---
 
-## 🚧 What I’m Working On
-
-- Automating cloud deployments with Python scripts on Azure  
-- Command-line tools to streamline daily workflows  
-- Prototyping conversational agents using LLM APIs  
-
----
-
-## 🏞️ The Journey Continues
-
-Every repository is a new expedition—full of unknown terrain, steep learning curves, and the thrill of discovery. Whether I’m charting serverless functions or composing data pipelines, I’m always scouting the next horizon.
-
----
+-- 🏞️ The Journey Continues...
 
 ## 🔗 Where to Find Me
 
